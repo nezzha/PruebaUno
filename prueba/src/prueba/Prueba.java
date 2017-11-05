@@ -21,6 +21,7 @@ public class Prueba {
         JOptionPane.showMessageDialog(null, "Hola Mundo ");
         JOptionPane.showMessageDialog(null, "Hola Mundo Dos");
         JOptionPane.showMessageDialog(null, "Hola Mundo Nuevo");
+        JOptionPane.showMessageDialog(null, "Hola Mundo Nuevo");
     }
     
 }
