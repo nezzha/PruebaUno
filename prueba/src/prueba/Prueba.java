@@ -20,7 +20,7 @@ public class Prueba {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hola Mundo ");
         JOptionPane.showMessageDialog(null, "Hola Mundo Dos");
-          JOptionPane.showMessageDialog(null, "Hola Mundo Tres");
+        JOptionPane.showMessageDialog(null, "Hola Mundo Nuevo");
     }
     
 }
